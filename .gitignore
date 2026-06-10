@@ -1,0 +1,16 @@
+# --- Binarios y directorios de construcción ---
+build/
+bin/
+*.o
+*.a
+*.so
+
+# --- Archivos temporales de Editores y LSP ---
+.cache/
+compile_commands.json
+
+# --- Temporales de LaTeX (Generados por tu script) ---
+*.aux
+*.log
+*.pdf
+data/*.dat
