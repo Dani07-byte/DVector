@@ -37,7 +37,7 @@ $$
 
 The geometric magnitude of the state trajectory is tracked via the Euclidean $L_2$ norm:
 
-$$\|\mathbf{x}\|_2 = \sqrt{\sum_{k=1}^N x_k^2}$$
+$$\|\mathbf{x}\|^2 = \sqrt{\sum_{k=1}^N x_k^2}$$
 
 ### 2. Numerical Integration Mechanics
 
